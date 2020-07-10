@@ -1,0 +1,826 @@
+{
+  "id": "spec5",
+  "description": "Array의 기본을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array의 기본을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec9",
+  "description": "Array 주소값을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array 주소값을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec8",
+  "description": "Array 메소드 slice를 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array 메소드 slice를 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec7",
+  "description": "Array의 길이를 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array의 길이를 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec6",
+  "description": "Array의 값을 다루는 방법을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array의 값을 다루는 방법을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec10",
+  "description": "Array 메소드 push와 pop을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array 메소드 push와 pop을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec11",
+  "description": "Array 메소드 shift와 unshift를 확인합니다.",
+  "fullName": "Bare Minimum Requirements Array에 관해서 Array 메소드 shift와 unshift를 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec26",
+  "description": "'filter' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'filter' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec27",
+  "description": "'map' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'map' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec28",
+  "description": "'reduce' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'reduce' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec29",
+  "description": "'forEach' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'forEach' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec32",
+  "description": "2개의 method를 연속적으로 사용하는 방법에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 2개의 method를 연속적으로 사용하는 방법에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec30",
+  "description": "'every' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'every' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec31",
+  "description": "'some' method에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Array Method에 관하여 'some' method에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec16",
+  "description": "함수에서 전달인자를 다루는법을 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 함수에서 전달인자를 다루는법을 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec17",
+  "description": "함수 표현식(변수에 함수를 선언하는 방법)을 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 함수 표현식(변수에 함수를 선언하는 방법)을 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec12",
+  "description": "function을 선언하는 법을 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 function을 선언하는 법을 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec13",
+  "description": "함수 scope에 관해서 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 함수 scope에 관해서 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec14",
+  "description": "scope chain에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 scope chain에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec15",
+  "description": "클로저 함수에 관해 학습합니다.",
+  "fullName": "Bare Minimum Requirements Function에 관해서 클로저 함수에 관해 학습합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec0",
+  "description": "테스트 하고 싶은 값이 true 인지를 검사합니다.",
+  "fullName": "Bare Minimum Requirements Expect에 관해서 테스트 하고 싶은 값이 true 인지를 검사합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBeTruthy",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec4",
+  "description": "'FILL_ME_IN'에 정확한 값을 입력했는지 검사합니다.",
+  "fullName": "Bare Minimum Requirements Expect에 관해서 'FILL_ME_IN'에 정확한 값을 입력했는지 검사합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec3",
+  "description": "===를 사용해 일치 여부를 검사합니다.",
+  "fullName": "Bare Minimum Requirements Expect에 관해서 ===를 사용해 일치 여부를 검사합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec2",
+  "description": "조금 더 괜찮은 방법으로 일치 여부를 검사합니다.",
+  "fullName": "Bare Minimum Requirements Expect에 관해서 조금 더 괜찮은 방법으로 일치 여부를 검사합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toEqual",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec1",
+  "description": "두 값의 일치 여부를 검사합니다.",
+  "fullName": "Bare Minimum Requirements Expect에 관해서 두 값의 일치 여부를 검사합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBeTruthy",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec22",
+  "description": "'theBomb'이라는 key를 가지고 있어야 합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 'in'에 관해서 'theBomb'이라는 key를 가지고 있어야 합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec23",
+  "description": "'theDetonator'라는 key를 가지고 있어선 안됩니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 'in'에 관해서 'theDetonator'라는 key를 가지고 있어선 안됩니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec18",
+  "description": "객체에 property가 존재하는지 확인합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 Property에 관해서 객체에 property가 존재하는지 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec19",
+  "description": "객체의 property는 알파벳 대소문자를 구분합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 Property에 관해서 객체의 property는 알파벳 대소문자를 구분합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec24",
+  "description": "객체에 property를 더하고 빼는법을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 객체에 property를 더하고 빼는법을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec25",
+  "description": "prototype를 사용해 모든 instance 객체에 property와 method 추가하는 법을 확인합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 prototype를 사용해 모든 instance 객체에 property와 method 추가하는 법을 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec20",
+  "description": "객체의 property로 담겨있는 function이 method처럼 작동하는지 확인합니다.",
+  "fullName": "Bare Minimum Requirements Object에 관해서 객체의 property로 담겨있는 function이 method처럼 작동하는지 확인합니다.",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toMatch",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+},{
+  "id": "spec21",
+  "description": "'this'에 관해서",
+  "fullName": "Bare Minimum Requirements Object에 관해서 'this'에 관해서",
+  "failedExpectations": [],
+  "passedExpectations": [
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    },
+    {
+      "matcherName": "toBe",
+      "message": "Passed.",
+      "stack": "",
+      "passed": true
+    }
+  ],
+  "deprecationWarnings": [],
+  "pendingReason": "",
+  "duration": null,
+  "status": "passed"
+}
